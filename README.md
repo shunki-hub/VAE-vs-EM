@@ -1,6 +1,4 @@
 # VAE-vs-EM
 
 ###VAE-vs-EM_V
-```python
-```
-ありがとう　　　
+VAEのコードです：VAEvsEM_V.ipynb
